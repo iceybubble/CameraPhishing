@@ -7,9 +7,13 @@ CamPhish is techniques to take cam shots of target's phone front camera or PC we
 These are the following steps you have to go through to breach in someone's device by sending them a malicious link and get access to there webcam:
 
 STEP 1: clone this repository using following command ( in Kali Linux):
+
 	git clone https://github.com/techchipnet/CamPhish
+ 
 	cd CamPhish
+ 
 	bash camphish.sh or ./camphish.sh
+
 
 
 STEP 2: choose tunnel server
