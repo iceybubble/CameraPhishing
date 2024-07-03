@@ -17,19 +17,27 @@ STEP 1: clone this repository using following command ( in Kali Linux):
 
 
 STEP 2: choose tunnel server
+
 	Ngrok
+ 
 	Serveo.net
  
+ 
 STEP 3: choose a template
+
 	here I chose Live Youtube TV
 
 STEP 4: enter youtube watch Id
 
+
 STEP 5: enter ngrok authtoken
+
 
 STEP 6: you'll get the link, send it to your target
 
+
 STEP 7: when the target will open the link you'll get the target's IP address along with their phone or desktop's cam shots.
+
 
 
 <NOTE: THIS IS ONLY FOR EDUCATIONAL PURPOSE DON'T USE THIS WITHOUT PERMISSION.>
